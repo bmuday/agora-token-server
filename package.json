@@ -1,0 +1,25 @@
+{
+  "name": "agora-token-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmuday/agora-token-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmuday/agora-token-server/issues"
+  },
+  "homepage": "https://github.com/bmuday/agora-token-server#readme",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
